@@ -32,9 +32,10 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/Screen_Shot_2021-09-23_at_3.21.39_PM.png",
+          "logo_width": 80,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "new-main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
