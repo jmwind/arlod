@@ -36,7 +36,7 @@
       "settings": {
         "heading": "",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "column"
       }
     }
   },
