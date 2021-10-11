@@ -181,6 +181,11 @@ html.no-js .no-js-hidden {
   padding: 0;
   margin: 0 auto;
 }
+  
+@font-face {
+  font-family: "Arlo";
+  src: url("arlo-Regular.woff2") format("woff2"), url("Arlo-Regular.woff") format("woff");
+}  
 
 @media screen and (min-width: 750px) {
   .page-width {
