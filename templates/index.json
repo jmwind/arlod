@@ -107,10 +107,50 @@
         "hide_variants": false,
         "enable_video_looping": false
       }
+    },
+    "1646170208b68a0dc6": {
+      "type": "collage",
+      "blocks": {
+        "f4a7476f-66f4-4fef-bdb7-179de66089e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_4.31.05_PM.png",
+            "image_padding": true,
+            "color_scheme": "background-1"
+          }
+        },
+        "75bc388e-27b3-4e6f-83a1-e20d2e938cd4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_4.33.22_PM.png",
+            "image_padding": true,
+            "color_scheme": "background-1"
+          }
+        },
+        "e1dc8456-931d-4d87-854b-e471248c43f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_4.32.14_PM.png",
+            "image_padding": true,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "f4a7476f-66f4-4fef-bdb7-179de66089e9",
+        "75bc388e-27b3-4e6f-83a1-e20d2e938cd4",
+        "e1dc8456-931d-4d87-854b-e471248c43f4"
+      ],
+      "settings": {
+        "heading": "What people are saying...",
+        "desktop_layout": "left",
+        "mobile_layout": "column"
+      }
     }
   },
   "order": [
     "collage",
-    "16426161287ebc29dd"
+    "16426161287ebc29dd",
+    "1646170208b68a0dc6"
   ]
 }
